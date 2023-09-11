@@ -1,0 +1,52 @@
+.rounded-3 {
+  border-radius: 0.5rem !important;
+}
+.bg-body-tertiary {
+  background-color: rgb(241, 239, 239) !important;
+}
+.edit-form {
+  display: inline-block;
+  position: absolute;
+  left: 1rem;
+}
+.delete-btn {
+  position: absolute;
+  right: 1rem;
+}
+.fa-user {
+  margin-right: 5px;
+}
+
+/* Login Form */
+.login-form-container {
+  background-color: rgb(224, 221, 221);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+/* profile */
+li {
+  list-style-type: none;
+}
+/* edit profile */
+.update-form {
+  position: relative;
+}
+.edit-input {
+  position: absolute;
+  right: 0rem;
+}
+.form-group {
+  margin: 10px 0;
+}
+.profile-pic-con {
+  width: 16rem;
+  height: 16rem;
+  margin: auto;
+}
+.profile-pic {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+}
